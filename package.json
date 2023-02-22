@@ -1,5 +1,5 @@
 {
-  "name": "Resumaid Project",
+  "name": "Resumaid",
   "version": "1.0.0",
   "description": "MERN Stack Project for creating a resume and provide a ATS functionality to check and improve your resume",
   "main": "index.js",
