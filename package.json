@@ -1,7 +1,7 @@
 {
-  "name": "resume-react",
+  "name": "Resumaid Project",
   "version": "1.0.0",
-  "description": "",
+  "description": "MERN Stack Project for creating a resume and provide a ATS functionality to check and improve your resume",
   "main": "index.js",
   "engines": {
     "node": "16.18.0",
