@@ -19,6 +19,7 @@ app.use(express.json());
 app.use("/api/user/", userRoute);
 
 //FOR DEPLOYMENT
+
   app.use("/", express.static("client/build"));
 
   // for all the requests
